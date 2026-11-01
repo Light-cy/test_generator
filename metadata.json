@@ -1,0 +1,8 @@
+{
+  "name": "Remix PTB Exam Generator",
+  "description": "A comprehensive test generator for Punjab Textbook Board (Classes 9-12) powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
